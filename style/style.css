@@ -1,0 +1,18 @@
+/*
+         태그 - 태그명
+         id - #
+         class .
+        */
+.second {
+  background-color: coral;
+}
+div {
+  font-size: 25pt;
+}
+.third {
+  background-color: brown;
+  color: blue;
+}
+a[target*="nk"] {
+  color: deeppink;
+}
